@@ -24,7 +24,7 @@ import android.util.Log;
  */
 
 public class LogDebug {
-    
+
     public static final String TAG = "Awesome App";
 
     public static void d(String message) {
